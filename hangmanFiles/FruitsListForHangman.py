@@ -1,0 +1,31 @@
+fruits = [
+    "Apple",
+    "Banana",
+    "Orange",
+    "Strawberry",
+    "Grapes",
+    "Pineapple",
+    "Mango",
+    "Watermelon",
+    "Blueberry",
+    "Peach",
+    "Cherry",
+    "Pear",
+    "Kiwi",
+    "Lemon",
+    "Lime",
+    "Raspberry",
+    "Blackberry",
+    "Cranberry",
+    "Pomegranate",
+    "Apricot",
+    "Plum",
+    "Avocado",
+    "Coconut",
+    "Guava",
+    "Papaya",
+    "Fig",
+    "Litchi"
+]
+
+# You can add more fruits to this list if you like.
